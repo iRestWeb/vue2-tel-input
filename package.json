@@ -1,0 +1,35 @@
+{
+  "name": "vue2-tel-input",
+  "version": "1.0.0",
+  "description": "Country phone list - input component Vuejs 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iRestWeb/vue2-tel-input.git"
+  },
+  "keywords": [
+    "Vuejs",
+    "Vue",
+    "js",
+    "Vuejs2",
+    "Vue2",
+    "input",
+    "country",
+    "countries",
+    "phone",
+    "list",
+    "dial",
+    "code",
+    "code",
+    "dial"
+  ],
+  "author": "Islam Saadi <islam@irestweb.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iRestWeb/vue2-tel-input/issues"
+  },
+  "homepage": "https://github.com/iRestWeb/vue2-tel-input#readme"
+}
